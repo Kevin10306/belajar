@@ -3,9 +3,11 @@ Belajar Branch
 - Cabang
  * BLABLA
  * BLEBLE
-  ^ Kalah
-  ^ Menang
+    ^ BLOBLO
+    ^ BLUBLU
+- Lagi
 - Akar
   ^ Panjang
 - Coba
 - Belajar
+- Yutub
